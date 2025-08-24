@@ -1,0 +1,20 @@
+@media screen and (max-width:670px){
+.container1 {
+ display: flex;
+ flex-wrap: wrap;
+ width: 100%vw;
+ height: 600px; 
+ background-image: url(../img/first\ img\ banner.avif); 
+ background-repeat: no-repeat;
+ object-fit: cover;
+ background-position:left;
+} 
+.content{
+    margin-top: 50px;
+    margin-left: 30px;
+    line-height: 1.2;
+}
+.content h3{
+    font-size: 20px;
+}
+}
